@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "1006857972144",
+    "firebase_url": "https://invoiceapp-dc7a6.firebaseio.com",
+    "project_id": "invoiceapp-dc7a6",
+    "storage_bucket": "invoiceapp-dc7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006857972144:android:ae5cd21aa98d4b20f34e75",
+        "android_client_info": {
+          "package_name": "com.dildarkhan.billing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006857972144-10j89shpc9u2canr0hf596l54du7v0h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dildarkhan.billing",
+            "certificate_hash": "57afb8a040c89591f6d99d1cf2dceecb47aabbdb"
+          }
+        },
+        {
+          "client_id": "1006857972144-d4mc98oa9vg5pdsbdjb2d0kehssviui2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dildarkhan.billing",
+            "certificate_hash": "da597b8a4fee7f1565e3a023e1b9c983afaf345d"
+          }
+        },
+        {
+          "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDL1fgCPrWNPTLpfN9EA75Tqt7mvagbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006857972144:android:dabe206819f098fff34e75",
+        "android_client_info": {
+          "package_name": "com.dildarkhan.cirriusattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006857972144-v5krj7n31usn6ap86c8a8tg4ii00s34u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dildarkhan.cirriusattendance",
+            "certificate_hash": "17c3b850cfd438227c414c6ade208fe9c76a123a"
+          }
+        },
+        {
+          "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDL1fgCPrWNPTLpfN9EA75Tqt7mvagbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006857972144:android:8e6608a7833ffce5f34e75",
+        "android_client_info": {
+          "package_name": "com.dildarkhan.dchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006857972144-o7i7vt4pg6rfmt2nb8ju7gijq4dqgm3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dildarkhan.dchat",
+            "certificate_hash": "57afb8a040c89591f6d99d1cf2dceecb47aabbdb"
+          }
+        },
+        {
+          "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDL1fgCPrWNPTLpfN9EA75Tqt7mvagbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006857972144-8fhf901o6e232ims2p0l3lvuv4c9vkjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
